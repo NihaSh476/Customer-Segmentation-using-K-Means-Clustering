@@ -50,6 +50,10 @@ Below are the cluster visualizations using different feature combinations:
 
 3D scatter plot of customer clusters based on age, income, and spending score. Colors indicate clusters; black “X” marks centroids.
 
+# Cluster Summaries and Interpretations
+
+<img width="742" alt="image" src="https://github.com/user-attachments/assets/aad7e79c-b61f-494e-9159-662abfdf66f5" />
+
 # **Conclusion:**
 
 K-Means clustering has successfully segmented customers into distinct groups based on their age, income, and spending patterns. These insights provide a valuable foundation for targeted marketing strategies and improved customer engagement. The visualizations, including the 3D scatter plot, clearly illustrate the differences between clusters, empowering businesses to make data-driven decisions and tailor their approaches effectively.
